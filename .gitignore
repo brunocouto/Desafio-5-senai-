@@ -2,6 +2,8 @@
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+.venv/
+.label-studio/
 
 # YOLO/Ultralytics runtime outputs
 runs/
@@ -10,8 +12,3 @@ Ultralytics/
 .ultralytics_config/
 *.cache
 *.pt
-
-# Temporary diagnostics/backups
-diagnostico_*.jpg
-_duplicadas_removidas_do_dataset/
-_removidas_do_dataset_por_estarem_no_teste/

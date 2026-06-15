@@ -1,0 +1,7 @@
+label-studio==1.23.0
+ultralytics
+pillow
+ipython
+ipykernel
+nbformat
+nbclient
