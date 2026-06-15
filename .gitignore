@@ -1,0 +1,17 @@
+# Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# YOLO/Ultralytics runtime outputs
+runs/
+runs_semana5/
+Ultralytics/
+.ultralytics_config/
+*.cache
+*.pt
+
+# Temporary diagnostics/backups
+diagnostico_*.jpg
+_duplicadas_removidas_do_dataset/
+_removidas_do_dataset_por_estarem_no_teste/
